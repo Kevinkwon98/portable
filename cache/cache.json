@@ -1,5 +1,18 @@
 {
   "files" : [ {
+    "remoteURL" : "http://arduino.esp8266.com/stable/package_esp8266com_index.json",
+    "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\arduino.esp8266.com\\stable\\package_esp8266com_index.json",
+    "eTag" : "5ce2f8ab-115d5",
+    "md5" : "MD5:d165e6a6192899211268f6ca7d5d9cd2",
+    "createdAt" : "2019-10-13T17:03:31.993",
+    "cacheControl" : {
+      "maxAge" : 600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2019-10-13T17:13:31.993"
+  }, {
     "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
     "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
     "eTag" : "ee3d7212f8c195a766b36b274675dd63",
@@ -8,23 +21,10 @@
     "cacheControl" : {
       "maxAge" : 14400,
       "mustRevalidate" : false,
-      "noStore" : false,
-      "noCache" : false
+      "noCache" : false,
+      "noStore" : false
     },
     "expires" : "2019-10-13T20:09:25.563"
-  }, {
-    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
-    "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
-    "eTag" : "10e165ed002d68ee1ac7b708e68595f2",
-    "md5" : "MD5:10e165ed002d68ee1ac7b708e68595f2",
-    "createdAt" : "2019-10-13T16:09:24.765",
-    "cacheControl" : {
-      "maxAge" : 3600,
-      "mustRevalidate" : false,
-      "noStore" : false,
-      "noCache" : false
-    },
-    "expires" : "2019-10-13T17:09:24.765"
   }, {
     "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
     "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
@@ -34,10 +34,23 @@
     "cacheControl" : {
       "maxAge" : 14400,
       "mustRevalidate" : false,
-      "noStore" : false,
-      "noCache" : false
+      "noCache" : false,
+      "noStore" : false
     },
     "expires" : "2019-10-13T20:09:25.873"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "10e165ed002d68ee1ac7b708e68595f2",
+    "md5" : "MD5:10e165ed002d68ee1ac7b708e68595f2",
+    "createdAt" : "2019-10-13T16:09:24.765",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2019-10-13T17:09:24.765"
   }, {
     "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
     "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json",
@@ -47,8 +60,8 @@
     "cacheControl" : {
       "maxAge" : 3600,
       "mustRevalidate" : false,
-      "noStore" : false,
-      "noCache" : false
+      "noCache" : false,
+      "noStore" : false
     },
     "expires" : "2019-10-13T17:09:24.642"
   } ]
