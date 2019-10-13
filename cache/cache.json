@@ -1,0 +1,55 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "ee3d7212f8c195a766b36b274675dd63",
+    "md5" : "MD5:ee3d7212f8c195a766b36b274675dd63",
+    "createdAt" : "2019-10-13T16:09:25.563",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2019-10-13T20:09:25.563"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "10e165ed002d68ee1ac7b708e68595f2",
+    "md5" : "MD5:10e165ed002d68ee1ac7b708e68595f2",
+    "createdAt" : "2019-10-13T16:09:24.765",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2019-10-13T17:09:24.765"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "dce93062dc6f68096e86e3c9b6914ab5",
+    "md5" : "MD5:dce93062dc6f68096e86e3c9b6914ab5",
+    "createdAt" : "2019-10-13T16:09:25.873",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2019-10-13T20:09:25.873"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\khkwon\\Documents\\ArduinoV1810\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "669db8ca08188a51f9b7d2fe0b74c3d0",
+    "md5" : "MD5:669db8ca08188a51f9b7d2fe0b74c3d0",
+    "createdAt" : "2019-10-13T16:09:24.642",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2019-10-13T17:09:24.642"
+  } ]
+}
